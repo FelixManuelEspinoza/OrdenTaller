@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrenTrabajo.server", "OrenTrabajo.server\OrenTrabajo.server.csproj", "{74B96A5C-57B3-46B3-B4EF-845BCDB68205}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrdenTrabajo.BD", "OrdenTrabajo.BD\OrdenTrabajo.BD.csproj", "{E5DF753A-4568-46E1-A268-677A4013365E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74B96A5C-57B3-46B3-B4EF-845BCDB68205}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74B96A5C-57B3-46B3-B4EF-845BCDB68205}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74B96A5C-57B3-46B3-B4EF-845BCDB68205}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74B96A5C-57B3-46B3-B4EF-845BCDB68205}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5DF753A-4568-46E1-A268-677A4013365E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5DF753A-4568-46E1-A268-677A4013365E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5DF753A-4568-46E1-A268-677A4013365E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5DF753A-4568-46E1-A268-677A4013365E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D709CB1-F960-49BB-A97B-B2A183CBA939}
+	EndGlobalSection
+EndGlobal
